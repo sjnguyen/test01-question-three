@@ -1,1 +1,2 @@
-alias kaboom='mkdir cupcakes && cd $_  mkdir are-not && touch better-than-donuts.txt && echo "SPRINKLES!" > $_' 
+alias fly='mkdir cupcakes && mkdir ~/cupcakes/are-not && touch ~/cupcakes/are-not/better-than-donuts.txt && echo  'SPRINKLES\n~' > ~/cupcakes/are-not/better-than-donuts.txt
+
