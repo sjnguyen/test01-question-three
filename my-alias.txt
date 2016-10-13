@@ -1,0 +1,1 @@
+alias kaboom='mkdir cupcakes && cd $_  mkdir are-not && touch better-than-donuts.txt && echo "SPRINKLES!" > $_' 
